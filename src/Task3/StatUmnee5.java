@@ -10,7 +10,7 @@ public class StatUmnee5{
         try {
             // Что бы появился Привет Фоат я записал его в файл text
             FileWriter writer = new FileWriter("text");
-            writer.write("Привет Фоат!!!");
+            writer.write("Привет Фоат!!! У тебя детей зовут Тимур и Эльвира?");
             // Закрыли (обязательное условие!!!!)
             writer.close();
 
