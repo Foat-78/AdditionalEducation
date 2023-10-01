@@ -9,7 +9,6 @@ import java.util.Random;
 // второй заполнить элементами первого.
 public class StatUmnee12 {
     public static void main(String[] args) {
-        Random chisla = new Random();
         ArrayList<Integer> list1 = new ArrayList<>();
         for (int i = 0; i < 10; i++) {
             list1.add(new Random().nextInt(10));
