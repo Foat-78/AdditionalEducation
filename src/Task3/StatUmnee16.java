@@ -2,7 +2,6 @@ package Task3;
 // Время потраченное на выполнение метода с классом String и StringBuilder
 public class StatUmnee16 {
     public static void main(String[] args) {
-
         var s = System.currentTimeMillis();
 //          String str = "";
         StringBuilder sb = new StringBuilder();
